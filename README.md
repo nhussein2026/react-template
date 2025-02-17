@@ -3,7 +3,28 @@
 A modern React template with **Redux, Tailwind CSS, ESLint, Prettier**, and other essential tools for building scalable applications.  
 
 ## 📂 Folder Structure  
-src/ ├── assets/ # Images, Fonts, Icons ├── components/ # Reusable UI Components ├── hooks/ # Custom Hooks ├── layouts/ # Page Layouts ├── pages/ # Application Pages ├── store/ # Redux Store ├── styles/ # Global Styles ├── utils/ # Helper Functions ├── App.js # Main App Component ├── index.js # Entry Point
+react-template/
+├── public/
+│   └── index.html
+├── src/
+│   ├── assets/ # Images, Fonts, Icons
+│   ├── components/ # Reusable UI Components
+│   ├── features/
+│   │   └── exampleSlice.js
+│   ├── hooks/ # Custom Hooks
+│   ├── layouts/ # Page Layouts
+│   ├── pages/ # Application Pages
+│   ├── store/
+│   │   └── index.js
+│   ├── styles/
+│   │   └── index.css
+│   │   └── App.css
+│   ├── utils/ # Helper Functions
+│   ├── App.js # Main App Component
+│   └── index.js # Entry Point
+├── package.json
+├── .gitignore
+└── README.md
 
 
 
