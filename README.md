@@ -57,6 +57,7 @@ sh
 Copy
 Edit
 npm start
-🔗 Credits
-Developed by https://nhussein.io
-Feel free to contribute or fork this template!
+
+
+Credits
+Developed by nhussein.io. Feel free to contribute or fork this template!
