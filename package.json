@@ -4,10 +4,7 @@
   "description": "A modern React template with Redux, Tailwind CSS, and essential tools.",
   "author": "nhussin.io <naser738nas@gmail.com>",
   "contributors": [
-    {
-      "name": "nhussein.io",
-      "url": "https://nhussein.io"
-    }
+    "nhussein.io (https://nhussein.io)"
   ],
   "private": true,
   "license": "MIT",
@@ -59,5 +56,18 @@
     "prettier": "^3.5.1",
     "tailwindcss": "^3.4.17",
     "web-vitals": "^4.2.4"
-  }
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhussein2026/react-template.git"
+  },
+  "keywords": [
+    "react",
+    "template"
+  ],
+  "bugs": {
+    "url": "https://github.com/nhussein2026/react-template/issues"
+  },
+  "homepage": "https://github.com/nhussein2026/react-template#readme"
 }
