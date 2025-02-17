@@ -58,5 +58,5 @@ Copy
 Edit
 npm start
 🔗 Credits
-Developed by nhussin.io
+Developed by https://nhussein.io
 Feel free to contribute or fork this template!
