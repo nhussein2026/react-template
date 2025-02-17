@@ -45,19 +45,16 @@ react-template/
    cd my-react-template
 
 
-Install dependencies:
+## Install dependencies:
 
-sh
-Copy
-Edit
+```
 npm install
 Run the development server:
+```
 
-sh
-Copy
-Edit
+```
 npm start
+```
 
-
-Credits
-Developed by nhussein.io. Feel free to contribute or fork this template!
+## Credits
+Developed by https://nhussein.io. Feel free to contribute or fork this template!
